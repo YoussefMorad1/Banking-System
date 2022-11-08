@@ -5,10 +5,20 @@ using namespace std;
 
 // write your class client here pls
 
-
-
-
-
+class client{
+private:
+    string name, address, phone;
+    bankAccount *ptr;
+public:
+    client(string n, string a, string p){
+        name = n;
+        address = a;
+        phone = p;
+    }
+    void setAcc(bankAccount *p){
+        ptr = p;
+    }
+};
 
 class BankApplication {
 
