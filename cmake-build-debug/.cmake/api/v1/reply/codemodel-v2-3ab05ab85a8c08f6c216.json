@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Banking_System::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Banking_System-Debug-f9e25524f7ed5701fa53.json",
+					"jsonFile" : "target-Banking_System-Debug-dde13b812a38460fbb2e.json",
 					"name" : "Banking_System",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Ah/OneDrive/Desktop/programing 1/GitHub/Banking-System/cmake-build-debug",
-		"source" : "C:/Users/Ah/OneDrive/Desktop/programing 1/GitHub/Banking-System"
+		"build" : "C:/Users/Youssef/Documents/GitHub/Banking-System/cmake-build-debug",
+		"source" : "C:/Users/Youssef/Documents/GitHub/Banking-System"
 	},
 	"version" : 
 	{

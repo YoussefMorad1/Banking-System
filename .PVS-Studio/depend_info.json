@@ -1,0 +1,46 @@
+[
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2021.3\\bin\\mingw\\bin\\g++.exe",
+            "-g",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\Youssef\\Documents\\GitHub\\Banking-System\\BankApplication.cpp"
+        ],
+        "dependencies": [],
+        "id": 1
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2021.3\\bin\\mingw\\bin\\g++.exe",
+            "-g",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\Youssef\\Documents\\GitHub\\Banking-System\\bankAccount.cpp"
+        ],
+        "dependencies": [],
+        "id": 2
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2021.3\\bin\\mingw\\bin\\g++.exe",
+            "-g",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\Youssef\\Documents\\GitHub\\Banking-System\\main.cpp"
+        ],
+        "dependencies": [],
+        "id": 3
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2021.3\\bin\\mingw\\bin\\g++.exe",
+            "-g",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\Youssef\\Documents\\GitHub\\Banking-System\\savingBankAccount.cpp"
+        ],
+        "dependencies": [],
+        "id": 4
+    }
+]
