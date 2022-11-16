@@ -14,7 +14,6 @@ private:
     std::map<long long, client*> mp;
     long long idtoint(std::string ID);
     std::string getinput();
-public:
     bool showScreen();
 
     bool createAccount();
@@ -24,5 +23,7 @@ public:
     bool withdraw();
 
     bool deposit();
+public:
+    void runapp();
 };
 #endif //BANKING_SYSTEM_BANKAPPLICATION_H

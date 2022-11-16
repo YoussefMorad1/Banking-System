@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     BankApplication bank1;
-    while(bank1.showScreen());
+    bank1.runapp();
 }
 
 

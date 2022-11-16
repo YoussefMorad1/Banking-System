@@ -8,6 +8,12 @@
 
 using namespace std;
 
+void BankApplication::runapp(){
+    while(showScreen());
+}
+
+
+
 bool BankApplication::createAccount() {
     string name, address, phone;
     cout << "Please Enter Client Name\n";
