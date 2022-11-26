@@ -1,8 +1,13 @@
 # Banking-System
  
-We Modeled, Designed and Developed a Banking Application..  
+***We Modeled, Designed and Developed a Banking Application..***    
 
-**The System is divided into 4 classes:**  
+**Made by:** [***Youssef Morad***](https://github.com/YoussefMorad1) -
+[***Hadeer Abdel-Naser***](https://github.com/hadeerabdelnaser) -
+[***Menna Ahmed***](https://github.com/Mennaahmed9)   
+**Requested by:** *Dr. Mohammed El-Ramly* in Object Oriented Programming course (Assingment 3)
+
+## The System is divided into 4 classes:   
 * **Client Class:**   
 It holds the basic information of a client like his name, address and phone number. It holds a pointer to his bank account.
 * **BankAccount Class:**  
@@ -12,7 +17,7 @@ It's a BankAccount but has more restrictions when client withdraws and deposits 
 * **BankingApplication Class:**  
 This is the main class that runs the application. This class displays the main menu and accepts the user's choice. It maintains a list of accounts and clients. 
 
-   It allows the user (the bank employee) to perform operations on a bank account:
+   BankingApplication allows the user (the bank employee) to perform operations on a bank account:
      * Create a bank account for a specific client.
      * List all the available bank accounts.
      * For each account, it allows him to display the account details, withdraw money and deposit money 
