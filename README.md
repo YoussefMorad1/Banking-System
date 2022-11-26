@@ -15,7 +15,7 @@ The banking application allows the user (the bank employee) to:
 * For each account, it allows him to display the account details, withdraw money and deposit money
 
 ## The Class Diagram
-<img src="https://user-images.githubusercontent.com/102534922/204098109-eaa1dde2-8dfa-4164-b404-b9f698d00c49.png" alt="drawing" width="800"/>
+<img src="https://user-images.githubusercontent.com/102534922/204098109-eaa1dde2-8dfa-4164-b404-b9f698d00c49.png" alt="UML Class Diagram" width="800"/>
 
 ## The Goal of this project is to:
 * Practice Object-Oriented-Programming concepts using C++ (Inheretance - Composition - Encapsulation - Abstraction - etc..) 
