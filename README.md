@@ -5,7 +5,7 @@
 **Made by:** [***Youssef Morad***](https://github.com/YoussefMorad1) -
 [***Hadeer Abdel-Naser***](https://github.com/hadeerabdelnaser) -
 [***Menna Ahmed***](https://github.com/Mennaahmed9)   
-**Requested by:** *Dr. Mohammed El-Ramly* in Object Oriented Programming course (Assingment 3)
+**Requested by:** *Dr. Mohammed El-Ramly* in Object Oriented Programming course (Assingment 2)
 
 ## The System is divided into 4 classes:   
 * **Client Class:**   
