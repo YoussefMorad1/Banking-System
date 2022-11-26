@@ -14,10 +14,10 @@ The banking application allows the user (the bank employee) to:
 * List all the available bank accounts.
 * For each account, it allows him to display the account details, withdraw money and deposit money
 
-The Class Diagram
+## The Class Diagram
 ![Untitled (1)](https://user-images.githubusercontent.com/102534922/204098109-eaa1dde2-8dfa-4164-b404-b9f698d00c49.png)
 
-The Goal of this project is to:
+## The Goal of this project is to:
 * Practice Object-Oriented-Programming concepts using C++ (Inheretance - Composition - Encapsulation - Abstraction - etc..) 
 * Practice building systems using OOP modeling and design with C++
 * Practice working in a team and integrating the code together to come up with a final working program
