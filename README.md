@@ -13,7 +13,7 @@ It holds the basic information of a client like his name, address and phone numb
 * **BankAccount Class:**  
 It holds the accountID, the balance in the account and a pointer to the account's client
 * **SavingBankAccoun Class:**  
-It's a BankAccount but has more restrictions when client withdraws and deposits and it has minimum balance
+It's a BankAccount but has more restrictions when client withdraws and deposits and it has minimum balance (inhereted from BankAccount Class)
 * **BankingApplication Class:**  
 This is the main class that runs the application. This class displays the main menu and accepts the user's choice. It maintains a list of accounts and clients. 
 
