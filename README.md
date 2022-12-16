@@ -26,7 +26,7 @@ This is the main class that runs the application. This class displays the main m
 <img src="https://user-images.githubusercontent.com/102534922/204098109-eaa1dde2-8dfa-4164-b404-b9f698d00c49.png" alt="UML Class Diagram" width="800"/>
 
 ## The Goal of this project is to:
-* Apply Object-Oriented-Programming concepts using C++ (Inheretance - Composition - Encapsulation - Abstraction - etc..) 
+* Apply Object-Oriented-Programming concepts using C++ (Inheretance - Polymorphism - Composition - Encapsulation - Abstraction) 
 * Practice building systems using OOP modeling and design with C++
 * Practice collaborating working in a team and integrating the code together to come up with a final working program
 
