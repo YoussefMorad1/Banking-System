@@ -17,7 +17,7 @@ It's a BankAccount but has more restrictions when client withdraws and deposits 
 * **BankingApplication Class:**  
 This is the main class that runs the application. This class displays the main menu and accepts the user's choice. It maintains a list of accounts and clients. 
 
-   BankingApplication allows the user (the bank employee) to perform operations on a bank account:
+   BankingApplication allows the user (the bank employee) to perform these operations:
      * Create a bank account for a specific client.
      * List all the available bank accounts.
      * For each account, it allows him to display the account details, withdraw money and deposit money 
